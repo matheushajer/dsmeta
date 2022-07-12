@@ -1,10 +1,12 @@
 import BotaoNotificacao from "./asstes/componentes/botaoNotificacao"
+import Header from "./asstes/componentes/Header"
 
 function App() {
   return (
     <>
-      <h1>Clean Project</h1>
+      <Header />
       <BotaoNotificacao />
+      
     </>
   )
 }
