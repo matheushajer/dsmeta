@@ -1,4 +1,4 @@
-package br.com.dsmeta.backend;
+package br.com.matheushajer.dsmeta;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
