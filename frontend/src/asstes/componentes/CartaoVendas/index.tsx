@@ -77,7 +77,7 @@ function CartaoVendas() {
                                     <td>R$ {sale.amount.toFixed(2)}</td>
                                     <td>
                                         <div className="dsmeta-red-btn-container">
-                                            <BotaoNotificacao />
+                                            <BotaoNotificacao saleId={sale.id} />
                                         </div>
                                     </td>
                                 </tr>
