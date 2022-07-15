@@ -1,4 +1,4 @@
-import iconeHeader from '../../img/iconeHeader.svg'
+import iconeHeader from '../../assets/img/iconeHeader.svg'
 import './styles.css'
 
 function Header() {
