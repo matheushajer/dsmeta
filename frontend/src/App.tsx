@@ -1,5 +1,5 @@
-import Header from "./asstes/componentes/Header"
-import CartaoVendas from "./asstes/componentes/CartaoVendas"
+import Header from "./componentes/Header"
+import CartaoVendas from "./componentes/CartaoVendas"
 
 import { ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
